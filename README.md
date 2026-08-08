@@ -7,7 +7,6 @@ Me chamo Guilherme Dos Santos Nogueira, tenho 17 anos e atualmente estou estudan
 Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas, desenvolver meus conhecimentos e evoluir cada vez mais na área de desenvolvimento de software.
 
 
-
 <p align="left">
     <a href="https://www.youtube.com/@Nogueira_gn?sub_confirmation=1">
         <img 
@@ -27,7 +26,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas, des
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Guilherme-nogueira757?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Guilherme-nogueira757">
