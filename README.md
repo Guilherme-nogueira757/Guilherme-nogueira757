@@ -2,7 +2,7 @@ Olá mundo
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Dos Santos Nogueira, tenho 17 anos e atualmente estou estudando programação pelo SENAC, onde faço um curso de Desenvolvimento de Software. Durante minha formação, venho aprendendo e aprimorando meus conhecimentos em diversas tecnologias e conceitos da área de programação, como C#, .NET, Banco de dados como SQL Server, integração de sistemas e Programação Orientada a Objetos (POO).
+Me chamo Guilherme Dos Santos Nogueira, tenho 17 anos e atualmente estou estudando programação pelo SENAC, onde faço um curso de Desenvolvimento de sistema. Durante minha formação, venho aprendendo e aprimorando meus conhecimentos em diversas tecnologias e conceitos da área de programação, como C#, .NET, Banco de dados como SQL Server, integração de sistemas e Programação Orientada a Objetos (POO).
 
 Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas, desenvolver meus conhecimentos e evoluir cada vez mais na área de tecnologia .
 
